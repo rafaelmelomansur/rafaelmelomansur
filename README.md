@@ -54,3 +54,13 @@ Breve descrição do projeto e suas tecnologias principais.
 - **LinkedIn:** [Seu Perfil no LinkedIn]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas conexões e colaborações! 😊
+
+-----
+## Estatísticas
+
+<div>
+<a href="https://github.com/sofiavasconcelosms">
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavasconcelosms&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=sofiavasconcelosms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+-----
