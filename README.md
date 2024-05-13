@@ -60,7 +60,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 
 <div>
 <a href="https://github.com/sofiavasconcelosms">
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiavasconcelosms&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=sofiavasconcelosms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmelomansur&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelomansur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -----
