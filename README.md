@@ -49,7 +49,7 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 
 <div>
 <a href="https://github.com/rafaelmelomansur">
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rafaelmelomansur&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true)
-(https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ZacDair&include_all_commits=true&theme=vue-dark&show_icons=true&count_private=true&hide=assembly)
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmelomansur&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelomansur&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 -----
