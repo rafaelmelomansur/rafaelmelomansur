@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Perfil do Estudante de Engenharia de Software - PUC Minas
+# Rafael Mansur
 
 Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Engenharia de Software na PUC Minas, buscando constantemente aprender e contribuir para a comunidade de desenvolvimento. Abaixo, compartilho um pouco sobre mim e meu percurso acadêmico.
 
@@ -52,3 +52,5 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 <img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelomansur&show_icons=true&theme=dracula"/>
 </div>
 -----
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=rafaelmelomansur&color=blueviolet"/>
