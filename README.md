@@ -49,6 +49,6 @@ Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou 
 <div>
 <a href="https://github.com/rafaelmelomansur">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmelomansur&layout=compact&langs_count=7&theme=dracula"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelomansur"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api?username=rafaelmelomansur&show_icons=true&theme=dracula"/>
 </div>
 -----
