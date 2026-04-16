@@ -25,7 +25,7 @@ Seja bem-vindo ao meu perfil! 👋 Sou um estudante apaixonado pelo mundo da Eng
   
 ## Habilidades
 
-- **Linguagens de Programação:** C
+- **Linguagens de Programação:** C, Python
 - **Desenvolvimento Web:** HTML, CSS, JavaScript
 - **Banco de Dados:** MySQL, MongoDB
 - **Metodologias:** Scrum, Kanban
